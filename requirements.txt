@@ -1,0 +1,9 @@
+torch
+torch-geometric
+pennylane
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+networkx
