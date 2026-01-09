@@ -22,7 +22,10 @@ origins = [
     "http://localhost:5173",
     "http://127.0.0.1:3000",
     "http://127.0.0.1:5173",
+    "https://gramin-route1-kpj2q6g19-vishals-projects-8bf76249.vercel.app",
+    "https://gramin-route1-r83apuouf-vishals-projects-8bf76249.vercel.app/"
 ]
+
 
 app.add_middleware(
     CORSMiddleware,
